@@ -1,0 +1,3 @@
+Simple ASCII content
+No special characters here
+Just basic English text
